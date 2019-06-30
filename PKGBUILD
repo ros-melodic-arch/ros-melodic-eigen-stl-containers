@@ -1,8 +1,7 @@
 # Script generated with import_catkin_packages.py
 # For more information: https://github.com/bchretien/arch-ros-stacks
 pkgdesc="ROS - This package provides a set of typedefs that allow using Eigen datatypes in STL containers."
-url='http://eigen.tuxfamily.org/dox/TopicUnalignedArrayAssert.html'
-
+url='https://wiki.ros.org/eigen_stl_containers'
 pkgname='ros-melodic-eigen-stl-containers'
 pkgver='0.1.8'
 _pkgver_patch=0
