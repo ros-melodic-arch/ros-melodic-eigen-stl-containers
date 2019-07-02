@@ -18,6 +18,7 @@ makedepends=('cmake' 'ros-build-tools'
 
 ros_depends=()
 depends=(${ros_depends[@]}
+  'python2-empy'
   eigen3)
 
 # Git version (e.g. for debugging)
